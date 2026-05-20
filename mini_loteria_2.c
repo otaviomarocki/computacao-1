@@ -115,6 +115,7 @@ int main()
 	        printf("Dinheiro gasto: %d\n", total_tentativas * 6);
        
 		}
+		if (tentativas >= 25
 		printf("Deseja continuar? (S/N): ");
 		scanf("%c", &c);
 
